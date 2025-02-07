@@ -2,8 +2,7 @@
 
 ## 🎯 Project Overview
 This project explores a **Netflix dataset from Kaggle** containing movies and TV shows.  
-Using Python and Pandas, I performed **data cleaning, exploratory analysis, and visualization**  
-to uncover **trends in Netflix content**, such as:  
+Using Python and Pandas, I performed **data cleaning, exploratory analysis, and visualization** to uncover **trends in Netflix content**, such as:  
 - 📈 How Netflix's content library has grown over time  
 - 🎭 The most popular genres and how they’ve changed  
 - 🌍 Which countries produce the most Netflix content  
